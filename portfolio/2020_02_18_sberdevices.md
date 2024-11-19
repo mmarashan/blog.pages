@@ -1,7 +1,7 @@
 ---
 title: 'Запуск умных устройств с ассистентами от MVP до продаж'
 date: '2020-02-18'
-poster: 'https://3dnews.ru/assets/external/illustrations/2022/08/16/1072210/wLnNiZXJkZXZp.jpg'
+poster: 'https://github.com/mmarashan/blog.pages/blob/main/images/sberdevices/min.png?raw=true'
 tags: ['launch']
 ---
 
@@ -12,5 +12,6 @@ tags: ['launch']
 - Разработка системных приложений: настройки,  скринсейвер,  системные сервисы.
 - Разработка системного сервиса и SDK для встраивания computer vision. Разработка приложения видеозвонков на базе webrtc.
 
-![SberPortal](https://3dnews.ru/assets/external/illustrations/2022/08/16/1072210/wLnNiZXJkZXZp.jpg)
+![Altaya](https://github.com/mmarashan/blog.pages/blob/main/images/sberdevices/altaya.webp?raw=true)
+![SberPortal](https://github.com/mmarashan/blog.pages/blob/main/images/sberdevices/sberportal.jpg?raw=true)
 
